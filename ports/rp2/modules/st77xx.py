@@ -1,0 +1,1 @@
+../../../../lv_micropython/lib/lv_bindings/driver/generic/st77xx.py

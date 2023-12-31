@@ -1,0 +1,1 @@
+../../../../lv_micropython/lib/lv_bindings/driver/generic/gc9a01.py
